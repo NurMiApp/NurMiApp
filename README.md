@@ -21,5 +21,5 @@ My name Nurkhametov Mike, this coding for yourself or min values. Nice to meet y
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NurMiApp" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NurMiApp&layout=compact&langs_count=8&card_width=320" />
 </a>
