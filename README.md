@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/NurMiApp/NurMiAp/output/github-contribution-grid-snake-dark.svg"/>
 ## Hi there 👋
 
 <!--
