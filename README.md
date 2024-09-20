@@ -1,6 +1,5 @@
-![Views](https://komarev.com/ghpvc/?username=NurMiApp&label=Views&base=1338&color=green)
 ## Hi there 👋
-
+![Views](https://komarev.com/ghpvc/?username=NurMiApp&label=Views&base=1338&color=green)
 <!--
 **NurMiApp/NurMiApp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
