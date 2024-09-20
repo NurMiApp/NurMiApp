@@ -1,3 +1,4 @@
+![Views](https://komarev.com/ghpvc/?username=NurMiApp&label=Views&base=1338&color=green)
 ## Hi there 👋
 
 <!--
