@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 
 My name Nurkhametov Mike, this coding for yourself or min values. Nice to meet you.
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=NurMiApp&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-### Stats
-![Nurkhametov Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurMiApp&show_icons=true&theme=dracula)
+## Website
+* [nurmiapp.github.io](nurmiapp.github.io)
